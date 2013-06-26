@@ -7,6 +7,9 @@ This file will be packaged with your application, when using `play dist`.
 Testing locally
 ===============
 
+Start a BentoBox. Create an instance named `default` and create a couple
+of tables however you'd like.
+
 In your terminal, run `play`
 
 Then type `run`

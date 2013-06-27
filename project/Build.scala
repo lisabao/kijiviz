@@ -16,7 +16,9 @@ object ApplicationBuild extends Build {
     //jdbc,
     //anorm,
     "org.kiji.schema" % "kiji-schema" % "1.1.0",
-    "org.kiji.platforms" % "kiji-cdh4-platform" % "1.1.0"
+    "org.kiji.platforms" % "kiji-cdh4-platform" % "1.1.0",
+    "org.kiji.mapreduce" % "kiji-mapreduce" % "1.1.0",
+    "org.scalatest" % "scalatest" % "1.4.RC2"
 
 //    "org.apache.hadoop" % "hadoop-client"  % hadoopVer,
 //    "org.apache.hadoop" % "hadoop-core"  % hadoopVer,
